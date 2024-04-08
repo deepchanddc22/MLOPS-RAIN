@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/da72916474e74e55a7d04e869ac59299/artifacts
+end_time: 1712566959344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da72916474e74e55a7d04e869ac59299
+run_name: crawling-mink-306
+run_uuid: da72916474e74e55a7d04e869ac59299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712566951087
+status: 3
+tags: []
+user_id: deepchanddc2

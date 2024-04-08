@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/4af3fd4e6e0c4ff9b15a9209c47616b9/artifacts
+end_time: 1712567133644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4af3fd4e6e0c4ff9b15a9209c47616b9
+run_name: inquisitive-frog-950
+run_uuid: 4af3fd4e6e0c4ff9b15a9209c47616b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712567125768
+status: 3
+tags: []
+user_id: deepchanddc2

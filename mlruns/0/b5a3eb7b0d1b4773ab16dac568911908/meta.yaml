@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/b5a3eb7b0d1b4773ab16dac568911908/artifacts
+end_time: 1712567936659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5a3eb7b0d1b4773ab16dac568911908
+run_name: persistent-roo-736
+run_uuid: b5a3eb7b0d1b4773ab16dac568911908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712567934363
+status: 3
+tags: []
+user_id: deepchanddc2

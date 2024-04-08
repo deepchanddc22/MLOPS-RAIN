@@ -8,6 +8,7 @@ from deeplearning_package.config import config
 import joblib
 import pickle
 import os
+import tensorflow as tf
 
 def train_model_and_log_metrics():
     # Initialize data pipeline
@@ -62,7 +63,7 @@ def train_model_and_log_metrics():
 
         model_save_path = config.SAVE_MODEL_PATH # Define the path where you want to save the model
         save_path = os.path.join(config.SAVE_MODEL_PATH,config.MODEL_NAME)
-        joblib.dump(model,save_path)
+        tf.keras.models.save_model(model, save_path)
         print(f"Model has been saved under the name {config.MODEL_NAME}")
         # Log the saved model as an artifact
         mlflow.log_artifact(model_save_path, artifact_path="trained_models")

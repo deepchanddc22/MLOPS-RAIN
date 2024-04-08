@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/cd4c1967715847d3bad6429d2e377bfd/artifacts
+end_time: 1712569226351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd4c1967715847d3bad6429d2e377bfd
+run_name: hilarious-sheep-342
+run_uuid: cd4c1967715847d3bad6429d2e377bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712569226286
+status: 3
+tags: []
+user_id: deepchanddc2
