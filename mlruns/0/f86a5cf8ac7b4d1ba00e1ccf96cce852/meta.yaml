@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/f86a5cf8ac7b4d1ba00e1ccf96cce852/artifacts
+end_time: 1712575982724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f86a5cf8ac7b4d1ba00e1ccf96cce852
+run_name: awesome-stork-700
+run_uuid: f86a5cf8ac7b4d1ba00e1ccf96cce852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712575979878
+status: 3
+tags: []
+user_id: deepchanddc2

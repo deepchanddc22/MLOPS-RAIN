@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/c3ed2690e23044ac8b9264614400e8e9/artifacts
+end_time: 1712575426788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3ed2690e23044ac8b9264614400e8e9
+run_name: omniscient-stoat-46
+run_uuid: c3ed2690e23044ac8b9264614400e8e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712575424922
+status: 3
+tags: []
+user_id: deepchanddc2

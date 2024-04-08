@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/9d720e5f1bbe48f0bc7ed11adc9747e2/artifacts
+end_time: 1712574850078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d720e5f1bbe48f0bc7ed11adc9747e2
+run_name: popular-cat-928
+run_uuid: 9d720e5f1bbe48f0bc7ed11adc9747e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712574850028
+status: 3
+tags: []
+user_id: deepchanddc2

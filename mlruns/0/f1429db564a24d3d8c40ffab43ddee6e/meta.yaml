@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/f1429db564a24d3d8c40ffab43ddee6e/artifacts
+end_time: 1712575339218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1429db564a24d3d8c40ffab43ddee6e
+run_name: rare-fly-682
+run_uuid: f1429db564a24d3d8c40ffab43ddee6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712575337351
+status: 3
+tags: []
+user_id: deepchanddc2

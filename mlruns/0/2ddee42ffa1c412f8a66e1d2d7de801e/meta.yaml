@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/2ddee42ffa1c412f8a66e1d2d7de801e/artifacts
+end_time: 1712574070657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ddee42ffa1c412f8a66e1d2d7de801e
+run_name: Data Preprocessing
+run_uuid: 2ddee42ffa1c412f8a66e1d2d7de801e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712574070122
+status: 3
+tags: []
+user_id: deepchanddc2

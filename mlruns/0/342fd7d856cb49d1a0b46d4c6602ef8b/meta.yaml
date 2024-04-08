@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/342fd7d856cb49d1a0b46d4c6602ef8b/artifacts
+end_time: 1712570645326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 342fd7d856cb49d1a0b46d4c6602ef8b
+run_name: rare-moth-324
+run_uuid: 342fd7d856cb49d1a0b46d4c6602ef8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712570645153
+status: 3
+tags: []
+user_id: deepchanddc2

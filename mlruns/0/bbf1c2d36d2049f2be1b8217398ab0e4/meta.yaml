@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/bbf1c2d36d2049f2be1b8217398ab0e4/artifacts
+end_time: 1712573113007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbf1c2d36d2049f2be1b8217398ab0e4
+run_name: bouncy-mink-357
+run_uuid: bbf1c2d36d2049f2be1b8217398ab0e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712573112816
+status: 3
+tags: []
+user_id: deepchanddc2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/6785d518a37443959b851c2afd5607c9/artifacts
+end_time: 1712576057905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6785d518a37443959b851c2afd5607c9
+run_name: receptive-mole-795
+run_uuid: 6785d518a37443959b851c2afd5607c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712576055028
+status: 3
+tags: []
+user_id: deepchanddc2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/95fb4ec7fd6e47539537fc955d20df5f/artifacts
+end_time: 1712570958214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95fb4ec7fd6e47539537fc955d20df5f
+run_name: bittersweet-koi-743
+run_uuid: 95fb4ec7fd6e47539537fc955d20df5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712570958030
+status: 3
+tags: []
+user_id: deepchanddc2

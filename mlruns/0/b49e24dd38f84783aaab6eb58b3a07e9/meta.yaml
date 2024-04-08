@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/b49e24dd38f84783aaab6eb58b3a07e9/artifacts
+end_time: 1712571009429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b49e24dd38f84783aaab6eb58b3a07e9
+run_name: secretive-grub-355
+run_uuid: b49e24dd38f84783aaab6eb58b3a07e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712571009094
+status: 3
+tags: []
+user_id: deepchanddc2

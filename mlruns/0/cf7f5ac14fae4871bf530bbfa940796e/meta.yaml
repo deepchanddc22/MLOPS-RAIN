@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/cf7f5ac14fae4871bf530bbfa940796e/artifacts
+end_time: 1712575595588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf7f5ac14fae4871bf530bbfa940796e
+run_name: shivering-grouse-201
+run_uuid: cf7f5ac14fae4871bf530bbfa940796e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712575595417
+status: 3
+tags: []
+user_id: deepchanddc2

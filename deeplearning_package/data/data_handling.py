@@ -40,9 +40,9 @@ class DataPipeline:
             self.data[feature] = label_encoders[feature].fit_transform(self.data[feature])
     
     def standardize_features(self):
-        numeric_features = config.NUM_FEATURES
+        all_features = config.FEATURES
         scaler = StandardScaler()
-        self.data[numeric_features] = scaler.fit_transform(self.data[numeric_features])
+        self.data[all_features] = scaler.fit_transform(self.data[all_features])
     
     def split_data(self):
         X = self.data[config.FEATURES]

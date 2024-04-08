@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/45f55d7ce1a047339580038b17c319ce/artifacts
+end_time: 1712575775060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45f55d7ce1a047339580038b17c319ce
+run_name: unruly-bug-637
+run_uuid: 45f55d7ce1a047339580038b17c319ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712575772262
+status: 3
+tags: []
+user_id: deepchanddc2

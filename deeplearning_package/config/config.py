@@ -17,7 +17,14 @@ FEATURES =  [
         'Date', 'Location', 'MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation', 'Sunshine',
         'WindGustDir', 'WindGustSpeed', 'WindDir9am', 'WindDir3pm', 'WindSpeed9am', 
         'WindSpeed3pm', 'Humidity9am', 'Humidity3pm', 'Pressure9am', 'Pressure3pm', 
-        'Cloud9am', 'Cloud3pm', 'Temp9am', 'Temp3pm', 'RainToday', 'RainTomorrow'
+        'Cloud9am', 'Cloud3pm', 'Temp9am', 'Temp3pm', 'RainToday'
+        ]
+
+TEST_FEATURES =  [
+        'Date', 'Location', 'MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation', 'Sunshine',
+        'WindGustDir', 'WindGustSpeed', 'WindDir9am', 'WindDir3pm', 'WindSpeed9am', 
+        'WindSpeed3pm', 'Humidity9am', 'Humidity3pm', 'Pressure9am', 'Pressure3pm', 
+        'Cloud9am', 'Cloud3pm', 'Temp9am', 'Temp3pm'
         ]
 
 NUM_FEATURES = [
@@ -41,7 +48,7 @@ DROPOUT_RATE = 0.2
 
         # Training configuration
 BATCH_SIZE = 64
-EPOCHS = 20
+EPOCHS = 100
 LEARNING_RATE = 0.001
 EARLY_STOPPING_PATIENCE = 5
 
