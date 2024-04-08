@@ -1,1 +1,13 @@
-this is a test
+include *.txt
+include *.md 
+include *.py
+recursive-include ./deeplearnin_package/*
+
+include deeplearnin_package/datasets/*.csv
+include deeplearnin_package/trained_models/*.pkl
+include deeplearnin_package/processing/*.py
+incude deeplearnin_package/VERSION
+include ./tests/*
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
