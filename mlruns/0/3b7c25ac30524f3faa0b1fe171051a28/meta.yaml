@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/3b7c25ac30524f3faa0b1fe171051a28/artifacts
+deleted_time: 1712561655978
+end_time: 1712560235683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3b7c25ac30524f3faa0b1fe171051a28
+run_name: fun-mouse-522
+run_uuid: 3b7c25ac30524f3faa0b1fe171051a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560235193
+status: 3
+tags: []
+user_id: deepchanddc2

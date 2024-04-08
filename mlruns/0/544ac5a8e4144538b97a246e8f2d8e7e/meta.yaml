@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/544ac5a8e4144538b97a246e8f2d8e7e/artifacts
+end_time: 1712561699777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 544ac5a8e4144538b97a246e8f2d8e7e
+run_name: brawny-smelt-530
+run_uuid: 544ac5a8e4144538b97a246e8f2d8e7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712561699259
+status: 3
+tags: []
+user_id: deepchanddc2

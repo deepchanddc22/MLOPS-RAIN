@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/db5e9ce5bad840de908a372450ea782f/artifacts
+deleted_time: 1712561655957
+end_time: 1712561537506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: db5e9ce5bad840de908a372450ea782f
+run_name: whimsical-hog-440
+run_uuid: db5e9ce5bad840de908a372450ea782f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712561435037
+status: 3
+tags: []
+user_id: deepchanddc2

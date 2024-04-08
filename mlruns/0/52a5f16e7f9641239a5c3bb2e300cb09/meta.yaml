@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/52a5f16e7f9641239a5c3bb2e300cb09/artifacts
+deleted_time: 1712561656011
+end_time: 1712560042617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 52a5f16e7f9641239a5c3bb2e300cb09
+run_name: secretive-hare-193
+run_uuid: 52a5f16e7f9641239a5c3bb2e300cb09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560041879
+status: 3
+tags: []
+user_id: deepchanddc2

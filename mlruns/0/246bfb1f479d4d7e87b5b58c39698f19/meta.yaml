@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/246bfb1f479d4d7e87b5b58c39698f19/artifacts
+deleted_time: 1712561655997
+end_time: 1712560060123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 246bfb1f479d4d7e87b5b58c39698f19
+run_name: abrasive-fawn-25
+run_uuid: 246bfb1f479d4d7e87b5b58c39698f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560042630
+status: 3
+tags: []
+user_id: deepchanddc2

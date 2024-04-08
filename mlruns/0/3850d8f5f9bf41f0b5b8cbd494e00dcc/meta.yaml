@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/3850d8f5f9bf41f0b5b8cbd494e00dcc/artifacts
+deleted_time: 1712561655996
+end_time: 1712560152630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3850d8f5f9bf41f0b5b8cbd494e00dcc
+run_name: sedate-kit-792
+run_uuid: 3850d8f5f9bf41f0b5b8cbd494e00dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712560151942
+status: 3
+tags: []
+user_id: deepchanddc2
