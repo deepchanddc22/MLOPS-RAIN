@@ -12,7 +12,6 @@ def load_model(model_path):
     else:
         return None
 
-
 def preprocess_data(temperature, humidity, wind_speed, cloud_cover, rain_today):
     standard_scaler = StandardScaler()
     rain_today_binary = 1 if rain_today.lower() == "yes" else 0
@@ -26,9 +25,7 @@ def preprocess_data(temperature, humidity, wind_speed, cloud_cover, rain_today):
 def make_prediction(model, input_data, threshold=0.7):
     predictions = model.predict(input_data)
     binary_prediction = (predictions > threshold).astype(int)[0][0]
-    return "Yes, it will rain" if binary_prediction == 1 else "No, it will not rain"
-
-
+    return binary_prediction
 
 # Main function
 def main():
@@ -49,25 +46,25 @@ def main():
         unsafe_allow_html=True
     )
 
-
     # Streamlit UI
-    st.title("Rain Predictor")
-    st.text("Made by : Deepchand O A")
+    st.title("🌧️ Rain Predictor")
+    st.text("Made by: Deepchand O A")
     temperature = st.number_input("Temperature (F)", step=1, value=0, format="%d", min_value=0)
     humidity = st.number_input("Humidity (%)", step=1, value=0, format="%d", min_value=0)
     wind_speed = st.number_input("Wind Speed (mph)", step=1, value=0, format="%d", min_value=0)
     cloud_cover = st.number_input("Cloud Cover (%)", step=1, value=0, format="%d", min_value=0)
     rain_today = st.selectbox("Rain Today", ["Yes", "No"])
 
-
-
     if st.button("Predict"):
         if loaded_model:
             input_data = preprocess_data(temperature, humidity, wind_speed, cloud_cover, rain_today)
             prediction = make_prediction(loaded_model, input_data)
-            st.write(f"Prediction: {prediction}")
+            if prediction == 1:
+                st.success("Yes, it will rain")
+            else:
+                st.warning("No, it will not rain")
         else:
-            st.write("Model not loaded.")
+            st.error("Model not loaded.")
 
 if __name__ == "__main__":
     main()
