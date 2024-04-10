@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/aa093a09134a47f5aed3e6258a6276ff/artifacts
+end_time: 1712742162867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa093a09134a47f5aed3e6258a6276ff
+run_name: bald-smelt-959
+run_uuid: aa093a09134a47f5aed3e6258a6276ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742153887
+status: 3
+tags: []
+user_id: deepchanddc2

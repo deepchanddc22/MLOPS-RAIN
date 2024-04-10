@@ -8,4 +8,7 @@ setuptools == 67.8.0
 wheel==0.38.4
 mlflow==2.11.3
 chardet==5.2.0
-tensorflow==2.11
+tensorflow
+fastapi
+uvicorn
+python-multipart

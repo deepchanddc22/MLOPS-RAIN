@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/9907d40df64342478ec8a47bd7c0aae6/artifacts
+end_time: 1712742602471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9907d40df64342478ec8a47bd7c0aae6
+run_name: Keras Model Training
+run_uuid: 9907d40df64342478ec8a47bd7c0aae6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742595332
+status: 3
+tags: []
+user_id: deepchanddc2

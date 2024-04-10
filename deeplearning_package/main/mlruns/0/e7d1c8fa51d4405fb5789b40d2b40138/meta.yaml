@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/e7d1c8fa51d4405fb5789b40d2b40138/artifacts
+end_time: 1712742603037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7d1c8fa51d4405fb5789b40d2b40138
+run_name: burly-robin-985
+run_uuid: e7d1c8fa51d4405fb5789b40d2b40138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742595293
+status: 3
+tags: []
+user_id: deepchanddc2

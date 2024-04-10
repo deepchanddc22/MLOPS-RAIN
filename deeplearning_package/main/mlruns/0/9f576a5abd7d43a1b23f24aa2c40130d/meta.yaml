@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/9f576a5abd7d43a1b23f24aa2c40130d/artifacts
+end_time: 1712742361687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f576a5abd7d43a1b23f24aa2c40130d
+run_name: clumsy-ape-972
+run_uuid: 9f576a5abd7d43a1b23f24aa2c40130d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742361629
+status: 3
+tags: []
+user_id: deepchanddc2

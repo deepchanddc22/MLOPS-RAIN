@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/fe38af96e7e24af8877083449a76470a/artifacts
+end_time: 1712742153872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe38af96e7e24af8877083449a76470a
+run_name: unleashed-snail-384
+run_uuid: fe38af96e7e24af8877083449a76470a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742153815
+status: 3
+tags: []
+user_id: deepchanddc2

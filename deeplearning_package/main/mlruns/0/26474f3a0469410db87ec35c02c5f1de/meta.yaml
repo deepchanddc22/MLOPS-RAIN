@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/26474f3a0469410db87ec35c02c5f1de/artifacts
+end_time: 1712742321783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26474f3a0469410db87ec35c02c5f1de
+run_name: traveling-wolf-829
+run_uuid: 26474f3a0469410db87ec35c02c5f1de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742321737
+status: 3
+tags: []
+user_id: deepchanddc2

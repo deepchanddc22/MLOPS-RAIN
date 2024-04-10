@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/a8c4d4ff9026407186bfa1dd0116ca3b/artifacts
+end_time: 1712742060748
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8c4d4ff9026407186bfa1dd0116ca3b
+run_name: luxuriant-crane-347
+run_uuid: a8c4d4ff9026407186bfa1dd0116ca3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742060706
+status: 3
+tags: []
+user_id: deepchanddc2

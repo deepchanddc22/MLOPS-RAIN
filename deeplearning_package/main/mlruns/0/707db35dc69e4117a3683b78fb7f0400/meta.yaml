@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/707db35dc69e4117a3683b78fb7f0400/artifacts
+end_time: 1712742084362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 707db35dc69e4117a3683b78fb7f0400
+run_name: omniscient-moose-737
+run_uuid: 707db35dc69e4117a3683b78fb7f0400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742084318
+status: 3
+tags: []
+user_id: deepchanddc2

@@ -61,10 +61,10 @@ def train_model_and_log_metrics():
 
         # Return history object
 
-        model_save_path = config.SAVE_MODEL_PATH # Define the path where you want to save the model
-        save_path = os.path.join(config.SAVE_MODEL_PATH,config.MODEL_NAME)
+        model_save_path = config.SAVE_MODEL_PATH  # Define the path where you want to save the model
+        save_path = os.path.join(model_save_path, config.MODEL_NAME + ".h5")  # Append .h5 extension
         tf.keras.models.save_model(model, save_path)
-        print(f"Model has been saved under the name {config.MODEL_NAME}")
+        print(f"Model has been saved under the name {config.MODEL_NAME}.h5")
         # Log the saved model as an artifact
         mlflow.log_artifact(model_save_path, artifact_path="trained_models")
         return history

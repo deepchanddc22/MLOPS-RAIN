@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/d291aa1208aa4d5a94a3a9625d77069d/artifacts
+end_time: 1712742346959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d291aa1208aa4d5a94a3a9625d77069d
+run_name: silent-cod-746
+run_uuid: d291aa1208aa4d5a94a3a9625d77069d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742346915
+status: 3
+tags: []
+user_id: deepchanddc2

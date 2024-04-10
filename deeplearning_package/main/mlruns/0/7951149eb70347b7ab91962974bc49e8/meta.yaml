@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/7951149eb70347b7ab91962974bc49e8/artifacts
+end_time: 1712752467805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7951149eb70347b7ab91962974bc49e8
+run_name: wistful-zebra-613
+run_uuid: 7951149eb70347b7ab91962974bc49e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712752467749
+status: 3
+tags: []
+user_id: deepchanddc2

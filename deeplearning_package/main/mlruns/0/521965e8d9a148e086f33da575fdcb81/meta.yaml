@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/521965e8d9a148e086f33da575fdcb81/artifacts
+end_time: 1712742297459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 521965e8d9a148e086f33da575fdcb81
+run_name: persistent-midge-881
+run_uuid: 521965e8d9a148e086f33da575fdcb81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712742297416
+status: 3
+tags: []
+user_id: deepchanddc2

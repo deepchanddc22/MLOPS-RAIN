@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/4bd3252759db41279c25fe0593fd5109/artifacts
+end_time: 1712752546259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bd3252759db41279c25fe0593fd5109
+run_name: bemused-newt-63
+run_uuid: 4bd3252759db41279c25fe0593fd5109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712752546215
+status: 3
+tags: []
+user_id: deepchanddc2

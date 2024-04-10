@@ -8,7 +8,7 @@ DATA_DIR = os.path.join(PACKAGE_ROOT,"datasets")
 TRAIN_DATA_FILE = 'train.csv'
 TEST_DATA_FILE = 'test.csv'
         
-MODEL_NAME = 'rain_prediction.pkl'
+MODEL_NAME = 'rain_prediction'
 SAVE_MODEL_PATH = os.path.join(PACKAGE_ROOT,'saved_model')
 
 TARGET = 'Rain Tomorrow'

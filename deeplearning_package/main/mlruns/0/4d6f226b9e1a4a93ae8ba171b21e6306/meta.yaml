@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/4d6f226b9e1a4a93ae8ba171b21e6306/artifacts
+end_time: 1712752445182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d6f226b9e1a4a93ae8ba171b21e6306
+run_name: welcoming-goose-460
+run_uuid: 4d6f226b9e1a4a93ae8ba171b21e6306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712752445133
+status: 3
+tags: []
+user_id: deepchanddc2
