@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/3823b531700d4448b61cd41890967b18/artifacts
+end_time: 1712727895349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3823b531700d4448b61cd41890967b18
+run_name: resilient-toad-300
+run_uuid: 3823b531700d4448b61cd41890967b18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712727822899
+status: 3
+tags: []
+user_id: deepchanddc2

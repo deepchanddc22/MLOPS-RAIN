@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/deeplearning_package/main/mlruns/0/53353daedce74d76a4c92dc12f03f3ad/artifacts
+end_time: 1712727822886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53353daedce74d76a4c92dc12f03f3ad
+run_name: selective-squid-510
+run_uuid: 53353daedce74d76a4c92dc12f03f3ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712727822836
+status: 3
+tags: []
+user_id: deepchanddc2
