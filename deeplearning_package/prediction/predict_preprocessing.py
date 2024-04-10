@@ -14,7 +14,7 @@ save_path = os.path.join(config.SAVE_MODEL_PATH, config.MODEL_NAME)
 
 if os.path.exists(save_path):
     loaded_model = tf.keras.models.load_model(save_path)
-    X_test = test_data_pipeline.data[config.FEATURES]  # Assuming this is the correct way to access your test data
+    X_test = test_data_pipeline.data[config.TEST_FEATURES]  # Assuming this is the correct way to access your test data
     start = 4
     end = 5
     print(X_test[start:end:])  # Print a sample of your test data to verify it's in the correct format

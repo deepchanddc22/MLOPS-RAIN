@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/deepchanddc2/Downloads/projects/DL_Package/mlruns/0/45675960d99a485cb8f034102a69d56c/artifacts
+end_time: 1712629279460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45675960d99a485cb8f034102a69d56c
+run_name: puzzled-bug-605
+run_uuid: 45675960d99a485cb8f034102a69d56c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712629278953
+status: 3
+tags: []
+user_id: deepchanddc2

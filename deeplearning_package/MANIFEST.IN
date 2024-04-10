@@ -4,8 +4,8 @@ include *.py
 recursive-include ./deeplearnin_package/*
 
 include deeplearnin_package/datasets/*.csv
-include deeplearnin_package/trained_models/*.pkl
-include deeplearnin_package/processing/*.py
+include deeplearnin_package/saved_model/*.pkl
+include deeplearnin_package/prediction_preprocessing/*.py
 incude deeplearnin_package/VERSION
 include ./tests/*
 
