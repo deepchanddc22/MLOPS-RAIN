@@ -5,6 +5,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 from deeplearning_package.config import config
 import time
+import argparse
 
 def load_model(model_path):
     if os.path.exists(model_path):
@@ -67,4 +68,12 @@ def main():
             st.error("Model not loaded.")
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Rain Predictor")
+    parser.add_argument("--host", default="0.0.0.0", help="Host address")
+    parser.add_argument("--port", type=int, default=8080, help="Port number")
+    args = parser.parse_args()
+
+    st.set_option('server.host', args.host)
+    st.set_option('server.port', args.port)
+
     main()
