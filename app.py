@@ -7,7 +7,7 @@ from deeplearning_package.config import config
 import time
 import argparse
 
-
+@st.experimental_singleton
 def load_model(model_path):
     if os.path.exists(model_path):
         return tf.keras.models.load_model(model_path)
@@ -68,7 +68,8 @@ def main():
         else:
             st.error("Model not loaded.")
 
-if __name__ == "__main__":
+# Define a function to add route as /rainpredict
+def add_rain_predict_route():
     parser = argparse.ArgumentParser(description="Rain Predictor")
     parser.add_argument("--host", default="0.0.0.0", help="Host address")
     parser.add_argument("--port", type=int, default=8080, help="Port number")
@@ -78,3 +79,6 @@ if __name__ == "__main__":
     st.set_option('server.port', args.port)
 
     main()
+
+# Call the function to add the route
+add_rain_predict_route()
