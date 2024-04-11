@@ -12,3 +12,4 @@ tensorflow
 fastapi
 uvicorn
 python-multipart
+streamlit
