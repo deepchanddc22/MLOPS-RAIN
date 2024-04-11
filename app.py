@@ -66,11 +66,9 @@ def main():
         else:
             st.error("Model not loaded.")
 
-if __name__ == "__main__":
     # Run the Streamlit app using subprocess
     command = [
         "streamlit", "run", __file__,
-        "--server.address", "0.0.0.0",
         "--server.port", "8080"
     ]
     process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -78,4 +76,5 @@ if __name__ == "__main__":
     print(stdout.decode())
     print(stderr.decode())
 
+if __name__ == "__main__":
     main()
